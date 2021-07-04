@@ -3,13 +3,15 @@ body{
     margin: 0;
 }
 h1{
-    font-size: 50px;
+    font-size: 60px;
+    
 }
 .orange-color{
     color: orange;
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
     width: 50%;
@@ -29,4 +31,9 @@ section{
 .top-baner{
     background-image: url(images/11.jpg);
     background-repeat: no-repeat;
+}
+.dream-big{
+    background-image: url(images/2.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
 }
